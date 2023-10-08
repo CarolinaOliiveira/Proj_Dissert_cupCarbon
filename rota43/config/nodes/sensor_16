@@ -1,0 +1,12 @@
+List of parameters
+------------------------------------------
+device_type:1
+device_id:16
+device_longitude:-8.4320068359375
+device_latitude:41.54301946124024
+device_elevation:0.0
+device_radius:0.0
+device_hide:0
+device_draw_battery:false
+device_sensor_unit_radius:15.0
+device_script_file_name:rota_bom.csc
